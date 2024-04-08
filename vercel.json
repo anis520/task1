@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "https://developer-anisulhoque.onrender.com",
+      "schedule": "*/14 * * * *"
+    }
+  ]
+}
