@@ -1,6 +1,10 @@
 {
   "crons": [
     {
+      "path": "/",
+      "schedule": "*/14 * * * *"
+    },
+    {
       "path": "https://developer-anisulhoque.onrender.com",
       "schedule": "*/14 * * * *"
     }
