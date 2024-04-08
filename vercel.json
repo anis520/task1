@@ -5,7 +5,7 @@
       "schedule": "*/14 * * * *"
     },
     {
-      "path": "https://developer-anisulhoque.onrender.com",
+      "path": "/api",
       "schedule": "*/14 * * * *"
     }
   ]
